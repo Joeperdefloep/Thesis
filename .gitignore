@@ -1,0 +1,11 @@
+.vscode/
+
+Blender/
+official/
+venv/
+AnimalsBlender/material_maker_0_98_linux/
+test/
+
+_build/
+
+*.html
